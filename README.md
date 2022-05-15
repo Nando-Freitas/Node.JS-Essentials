@@ -1,2 +1,2 @@
 # Node.JS-Essentials
-An amount of nodejs knowledge about node.js with examples
+An amount of nodejs knowledge about node.js.
